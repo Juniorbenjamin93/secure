@@ -1,0 +1,6 @@
+{
+  "/auditoria/quiz/page": "app/auditoria/quiz/page.js",
+  "/page": "app/page.js",
+  "/api/quizzes/route": "app/api/quizzes/route.js",
+  "/auditoria/page": "app/auditoria/page.js"
+}
