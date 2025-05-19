@@ -1,6 +1,10 @@
 {
-  "/auditoria/quiz/page": "app/auditoria/quiz/page.js",
+  "/gerenciamento/page": "app/gerenciamento/page.js",
   "/page": "app/page.js",
+  "/gerenciamento/quiz/page": "app/gerenciamento/quiz/page.js",
+  "/auditoria/quiz/page": "app/auditoria/quiz/page.js",
+  "/auditoria/page": "app/auditoria/page.js",
   "/api/quizzes/route": "app/api/quizzes/route.js",
-  "/auditoria/page": "app/auditoria/page.js"
+  "/solucoes/quiz/page": "app/solucoes/quiz/page.js",
+  "/solucoes/page": "app/solucoes/page.js"
 }

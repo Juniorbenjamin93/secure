@@ -16,10 +16,40 @@
       "static/chunks/main-app.js",
       "static/chunks/app/auditoria/page.js"
     ],
+    "/solucoes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/solucoes/page.js"
+    ],
+    "/armazenamento/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/armazenamento/page.js"
+    ],
+    "/gerenciamento/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/gerenciamento/page.js"
+    ],
+    "/sobre/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sobre/page.js"
+    ],
     "/auditoria/quiz/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/auditoria/quiz/page.js"
+    ],
+    "/gerenciamento/quiz/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/gerenciamento/quiz/page.js"
+    ],
+    "/solucoes/quiz/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/solucoes/quiz/page.js"
     ]
   }
 }
